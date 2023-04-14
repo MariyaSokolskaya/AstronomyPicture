@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AstronomyPicture</string>
+    <string name="title_text">Астрономическая картинка дня</string>
+    <string name="translate_text">Перевести описание</string>
+</resources>
